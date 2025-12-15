@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi there, I'm Raymond Tetteh 👋
 
-<!--
-**raytee835/raytee835** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Data/Business analyst from Ghana 🇬🇭 currently living in the United Kingdom with experience in Computer Vision, Data Science and Visualisation.
 
-Here are some ideas to get you started:
+I love turning ideas and data into real-world tools and insightful visualizations for technical and non-technical audiences!
+🏫 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 MSc Business Analytics — University of Kent(UK)
+🎓 MSc Business Analytics — University of Ghana
+🎓 BSc Economics and Philosophy — University of Ghana
+🌱 I’m Learning
+
+To manipulate data better than I currently do.
+To comunicate findings better to non-technical audiences
+To be a better data engineer
+📫 Connect with me
+
+LinkedIn
+raytee835@gmail.com
+“THERE CAN BE NO ACCEPTABLE FUTURE WITHOUT AN HONEST ANALYSIS OF THE PAST. John Doe“
