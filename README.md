@@ -5,7 +5,7 @@ I'm an Data and Business analyst from Ghana 🇬🇭 currently living in the Uni
 
 ## 🏫 Education
 - 🎓 MSc Business Analytics — University of Kent(UK)
-- 🎓 BSc Business Analytics — University of Ghana
+- 🎓 MSc Business Analytics — University of Ghana
 - 🎓 BSc Economics and Philosophy — University of Ghana  
 
 ## 🌱 I’m Learning
